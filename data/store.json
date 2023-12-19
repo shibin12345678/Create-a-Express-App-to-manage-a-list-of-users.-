@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "shibinshan",
+      "birth": "2002",
+      "class":"dgree"
+    },
+    {
+        "id": 2,
+        "name": "ameen",
+        "birth": "2002",
+        "class":"dgree"
+      },
+      {
+        "id": 1,
+        "name": "hafeefa",
+        "birth": "1998",
+        "class":"worker"
+      }
+
+  ]
+  
